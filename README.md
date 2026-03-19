@@ -276,7 +276,7 @@ MIT License — free to use, modify, distribute.
 <br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-siddhantchandorkar752--ai-0d3b6e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddhantchandorkar752-ai)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-siddhantchandorkar-00b4d8?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/siddhantchandorkar)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-siddhantchandorkar-00b4d8?style=for-the-badge&logo=huggingface&logoColor=white)](https://siddhantchandorkar-fraudstream.hf.space/docs)
 
 <br/>
 
