@@ -8,5 +8,3 @@ pandas==2.2.1
 numpy==1.26.4
 httpx==0.27.2
 pytest==8.1.1
-httpx==0.27.2
-evident==0.4.30
